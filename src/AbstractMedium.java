@@ -3,7 +3,7 @@
  * @author hansanhoo
  *
  */
-abstract public class AbstractMedium
+abstract public class AbstractMedium 
 {
     /**
      * Ein Kommentar zum AbstractMedium
