@@ -6,7 +6,6 @@ import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.scene.layout.Pane;
 
-
 /**
  * Ein AusleiheMedienauflisterWerkzeug ist ein Werkzeug zum auflisten von Medien
  * mit ihren Verleihinformationen.
